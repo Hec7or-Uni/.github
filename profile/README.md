@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
 
@@ -13,6 +13,10 @@
 
 > [!NOTE]  
 > He creado una plantilla para tomar apuntes en [Obsidian](https://obsidian.md/). Si te interesa, puedes acceder a ella en el siguiente enlace: [Enlace a la plantilla](https://github.com/hec7orci7o/obsidian-template-generator).
+
+![plantilla](https://github.com/hec7orci7o/obsidian-template-generator/blob/main/assets/informatica-example.png)
+
+### Índice
 
 > [!WARNING]  
 > A pesar de haber obtenido una muy calificación en la mayoría de prácticas presentadas a continuación, los siguientes repositorios pueden contener errores y no presentar la mejor calidad. Utilizar con precaución.
