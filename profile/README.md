@@ -13,6 +13,12 @@
 
 | Código | Nombre | Repos |
 | ------ | ------ | ----- |
+|  30204 | Programación 1 | [`prog-tf`]() |
+|  30209 | Programación II | [`prog2-pr-1`]() |
+|        |                 | [`prog2-pr-2`]() |
+
+| Código | Nombre | Repos |
+| ------ | ------ | ----- |
 |  30204 | Programación 1 | prog-tf |
 |  30209 | Programación II | prog2-pr-1 |
 |        |                 | prog2-pr-2 |
