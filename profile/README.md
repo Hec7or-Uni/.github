@@ -11,6 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+> [!NOTE]  
+> He creado una plantilla para tomar apuntes en [Obsidian](https://obsidian.md/). Si te interesa, puedes acceder a ella en el siguiente enlace: [Enlace a la plantilla](https://github.com/hec7orci7o/obsidian-template-generator).
+
+> [!WARNING]  
+> A pesar de haber obtenido una muy calificación en la mayoría de prácticas presentadas a continuación, los siguientes repositorios pueden contener errores y no presentar la mejor calidad. Utilizar con precaución.
+
 | Código | Nombre | Repos |
 | ------ | ------ | ----- |
 |  30204 | Programación 1 | [`prog1-tf`][prog1-tf] |
