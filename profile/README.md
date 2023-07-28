@@ -55,3 +55,44 @@
 |  30219 | Bases de datos | - bbdd-pr-1 |
 |        |                | - bbdd-pr-2 |
 |        |                | - bbdd-pr-3 |
+|  30220 | Proyecto hardware | - ph-pr-1 |
+|        |                   | - ph-pr-2 |
+|        |                   | - ph-pr-3 |
+|  30221 | Sistemas distribuidos | - sisdis-pr-1 |
+|        |                       | - sisdis-pr-2 |
+|        |                       | - sisdis-pr-raft |
+|  30222 | Ingeniería del Software | - ingsoft-app |
+|  30223 | Inteligencia artificial | - ia-pr-1 |
+|        |                         | - ia-pr-2 |
+|        |                         | - ia-pr-3 |
+|        |                         | - ia-pr-5 |
+|        |                         | - ia-tf-1 |
+|        |                         | - ia-tf-2 |
+|  30224 | Sistemas de información | - BIdeas |
+|  30226 | Proyecto Software | - taskjuggler |
+|        |                   | -  |
+|        |                   | -  |
+|        |                   | -  |
+|  30227 | Seguridad informática | - seginf-pr-1 |
+|        |                       | - seginf-pr-2 |
+|        |                       | - seginf-pr-3 |
+|        |                       | - seginf-pr-4 |
+|        |                       | - seginf-pr-5 |
+|        |                       | - seginf-pr-6 |
+|  30246 | Ingeniería web | - lab1-git-race |
+|        |                | - lab2-web-server |
+|        |                | - lab3-web-api |
+|        |                | - lab4-websockets |
+|        |                | - lab5-soa |
+|        |                | - lab6-microservices |
+|        |                | - urlshortener |
+|  30250 | Bases de datos 2 | - bbdd2-pr-1 |
+|        |                  | - bbdd2-pr-2 |
+|        |                  | - bbdd2-pr-3 |
+|        |                  | - bbdd2-pr-4 |
+|        |                  | - bbdd2-pr-5 |
+|  30257 | Administración de sistemas 2 | - adsis2-pr-1 |
+|        |                              | - adsis2-pr-2 |
+|        |                              | - adsis2-pr |
+|        |                              | - adsis2-tf |
+|  30258 | Diseño centrado en el usuario. Diseño para la multimedia | - dcu-tf |
