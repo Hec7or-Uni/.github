@@ -13,7 +13,7 @@
 
 | Código | Nombre | Repos |
 | ------ | ------ | ----- |
-|  30204 | Programación 1 | [`prog1-tf`][prog11-tf] |
+|  30204 | Programación 1 | [`prog1-tf`][prog1-tf] |
 |  30209 | Programación II | [`prog2-pr-1`][prog2-pr-1] [`prog2-pr-2`][prog2-pr-2] [`prog2-pr-3`][prog2-pr-3] [`prog2-pr-4`][prog2-pr-4] [`prog2-pr-tf`][prog2-pr-tf] |
 |  30211 | Redes de computadores | [`redes-tf`][redes-tf] |
 |  30212 | Programación de sistemas concurrentes y distribuidos | [`pscd-pr-1`][pscd-pr-1] [`pscd-pr-2`][pscd-pr-2] [`pscd-pr-3`][pscd-pr-3] [`pscd-pr-4`][pscd-pr-4] [`pscd-pr-5`][pscd-pr-5] [`pscd-tf`][pscd-tf] |
