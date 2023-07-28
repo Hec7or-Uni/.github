@@ -69,9 +69,9 @@
 |        |                         | ia-tf-2 |
 |  30224 | Sistemas de información | BIdeas |
 |  30226 | Proyecto Software | taskjuggler |
-|        |                   |  |
-|        |                   |  |
-|        |                   |  |
+|        |                   | chess-frontend |
+|        |                   | chess-backend |
+|        |                   | chess-mobile |
 |  30227 | Seguridad informática | seginf-pr-1 |
 |        |                       | seginf-pr-2 |
 |        |                       | seginf-pr-3 |
