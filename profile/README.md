@@ -113,8 +113,8 @@ bbdd2-pr-2:         https://github.com/Hec7or-Uni/bbdd2-pr-2
 bbdd2-pr-3:         https://github.com/Hec7or-Uni/bbdd2-pr-3 
 bbdd2-pr-4:         https://github.com/Hec7or-Uni/bbdd2-pr-4 
 bbdd2-pr-5:         https://github.com/Hec7or-Uni/bbdd2-pr-5 
-adsis2-pr-1:        https://github.com/Hec7or-Uni/adsis2-pr-1 
-adsis2-pr-2:        https://github.com/Hec7or-Uni/adsis2-pr-2 
-adsis2-pr:          https://github.com/Hec7or-Uni/adsis2-pr
-adsis2-tf:          https://github.com/Hec7or-Uni/adsis2-tf
-dcu-tf:             https://github.com/Hec7or-Uni/dcu-tf
+adsis2-pr-1: https://github.com/Hec7or-Uni/adsis2-pr-1 
+adsis2-pr-2: https://github.com/Hec7or-Uni/adsis2-pr-2 
+adsis2-pr: https://github.com/Hec7or-Uni/adsis2-pr
+adsis2-tf: https://github.com/Hec7or-Uni/adsis2-tf
+dcu-tf: https://github.com/Hec7or-Uni/dcu-tf
