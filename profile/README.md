@@ -13,14 +13,14 @@
 
 | Código | Nombre | Repos |
 | ------ | ------ | ----- |
-|  30204 | Programación 1 | [`prog-tf`][prog-tf] |
+|  30204 | Programación 1 | [`prog1-tf`][1-tf] |
 |  30209 | Programación II | [`prog2-pr-1`][prog2-pr-1] [`prog2-pr-2`][prog2-pr-2] [`prog2-pr-3`][prog2-pr-3] [`prog2-pr-4`][prog2-pr-4] [`prog2-pr-tf`][prog2-pr-tf] |
 |  30211 | Redes de computadores | [`redes-tf`][redes-tf] |
 |  30212 | Programación de sistemas concurrentes y distribuidos | [`pscd-pr-1`][pscd-pr-1] [`pscd-pr-2`][pscd-pr-2] [`pscd-pr-3`][pscd-pr-3] [`pscd-pr-4`][pscd-pr-4] [`pscd-pr-5`][pscd-pr-5] [`pscd-tf`][pscd-tf] |
 |  30213 | Estructuras de datos y algoritmos | [`eda-pr-1`][eda-pr-1] [`eda-pr-2`][eda-pr-2] |
 |  30214 | Teoría de la computación   | [`tcomp-pr-1`][tcomp-pr-1] [`tcomp-pr-2`][tcomp-pr-2] [`tcomp-pr-3`][tcomp-pr-3] [`tcomp-pr-4`][tcomp-pr-4] |
 |  30215 | Arquitectura y organización de computadores 2 | [`aoc2-tf-1`][aoc2-tf-1] [`aoc2-tf-2`][aoc2-tf-2] |
-|  30216 | Administración de sistemas | [`adsis-pr-1`][adsis-pr-1] [`adsis-pr-2`][adsis-pr-2] [`adsis-pr-3`][adsis-pr-3] [`adsis-pr-4`][adsis-pr-4] [`adsis-pr-5`][adsis-pr-5] [`adsis-pr-6`][adsis-pr-6] [`adsis-tf`][adsis-tf] |
+|  30216 | Administración de sistemas | [`adsis-pr-2`][adsis-pr-2] [`adsis-pr-3`][adsis-pr-3] [`adsis-pr-4`][adsis-pr-4] [`adsis-pr-5`][adsis-pr-5] [`adsis-pr-6`][adsis-pr-6] [`adsis-tf`][adsis-tf] |
 |  30218 | Tecnología de programación | [`tprog-ej-1`][tprog-ej-1] [`tprog-ej-2`][tprog-ej-2] [`tprog-ej-3`][tprog-ej-3] [`tprog-ej-4`][tprog-ej-4] [`tprog-pr-1`][tprog-pr-1] [`tprog-pr-2`][tprog-pr-2] [`tprog-pr-3`][tprog-pr-3] [`tprog-pr-4`][tprog-pr-4] [`tprog-pr-5`][tprog-pr-5] [`tprog-pr-6`][tprog-pr-6] |
 |  30219 | Bases de datos | [`bbdd-pr-1`][bbdd-pr-1] [`bbdd-pr-2`][bbdd-pr-2] [`bbdd-pr-3`][bbdd-pr-3] |
 |  30220 | Proyecto hardware | [`ph-pr-1`][ph-pr-1] [`ph-pr-2`][ph-pr-2] [`ph-pr-3`][ph-pr-3] |
@@ -36,12 +36,12 @@
 |  30258 | Diseño centrado en el usuario. Diseño para la multimedia | [`dcu-tf`][dcu-tf] |
 
 <!-- Enlaces -->
-[prog-tf]:        https://github.com/Hec7or-Uni/prog-tf
+[prog1-tf]:        https://github.com/Hec7or-Uni/prog1-tf
 [prog2-pr-1]:     https://github.com/Hec7or-Uni/prog2-pr-1 
 [prog2-pr-2]:     https://github.com/Hec7or-Uni/prog2-pr-2 
 [prog2-pr-3]:     https://github.com/Hec7or-Uni/prog2-pr-3 
 [prog2-pr-4]:     https://github.com/Hec7or-Uni/prog2-pr-4 
-[prog2-pr-tf]:    https://github.com/Hec7or-Uni/prog2-pr-tf
+[prog2-tf]:       https://github.com/Hec7or-Uni/prog2-tf
 [redes-tf]:       https://github.com/Hec7or-Uni/redes-tf
 [pscd-pr-1]:      https://github.com/Hec7or-Uni/pscd-pr-1 
 [pscd-pr-2]:      https://github.com/Hec7or-Uni/pscd-pr-2 
@@ -57,7 +57,6 @@
 [tcomp-pr-4]:     https://github.com/Hec7or-Uni/tcomp-pr-4 
 [aoc2-tf-1]:      https://github.com/Hec7or-Uni/aoc2-tf-1
 [aoc2-tf-2]:      https://github.com/Hec7or-Uni/aoc2-tf-2
-[adsis-pr-1]:     https://github.com/Hec7or-Uni/adsis-pr-1 
 [adsis-pr-2]:     https://github.com/Hec7or-Uni/adsis-pr-2 
 [adsis-pr-3]:     https://github.com/Hec7or-Uni/adsis-pr-3 
 [adsis-pr-4]:     https://github.com/Hec7or-Uni/adsis-pr-4 
@@ -92,9 +91,9 @@
 [ia-tf-2]:        https://github.com/Hec7or-Uni/ia-tf-2
 [BIdeas]:         https://github.com/Hec7or-Uni/BIdeas
 [taskjuggler]:        https://github.com/Hec7or-Uni/taskjuggler
-[chess-frontend]:     https://github.com/Hec7or-Uni/chess-frontend 
-[chess-backend]:      https://github.com/Hec7or-Uni/chess-backend
-[chess-mobile]:       https://github.com/Hec7or-Uni/chess-mobile
+[chess-frontend]:     https://github.com/UNIZAR-30226-2023-01/chess-frontend 
+[chess-backend]:      https://github.com/UNIZAR-30226-2023-01/chess-backend
+[chess-mobile]:       https://github.com/UNIZAR-30226-2023-01/chess-mobile
 [seginf-pr-1]:        https://github.com/Hec7or-Uni/seginf-pr-1 
 [seginf-pr-2]:        https://github.com/Hec7or-Uni/seginf-pr-2 
 [seginf-pr-3]:        https://github.com/Hec7or-Uni/seginf-pr-3 
