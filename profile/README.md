@@ -127,3 +127,14 @@
 [adsis2-pr]:          https://github.com/Hec7or-Uni/adsis2-pr
 [adsis2-tf]:          https://github.com/Hec7or-Uni/adsis2-tf
 [dcu-tf]:             https://github.com/Hec7or-Uni/dcu-tf
+
+### Recursos
+
+| Herramienta | Descripción |
+| ----------- | ----------- |
+| [devhints](https://devhints.io/)| |
+| [explainshell](https://explainshell.com/) | |
+| [HotAsm](https://hotasm.vercel.app/) | |
+| [CyberChef](https://gchq.github.io/CyberChef/) | |
+| [dcode.fr](https://www.dcode.fr) | |
+| [boolean-expressions-calculator](https://www.dcode.fr/boolean-expressions-calculator) | |
