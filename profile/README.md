@@ -42,8 +42,8 @@ Este es un ejemplo de un documento Markdown que contiene una tabla con enlaces.
 
 | Código | Nombre                     | Repos      |
 | ------ | -------------------------  | ---------- |
-| 30204  | Programación 1             | [prog-tf][]|
-| 40203  | Introducción a Python      | [intro-py][]|
+| 30204  | Programación 1             | [`prog-tf`][]|
+| 40203  | Introducción a Python      | `[intro-py][]`|
 | 20201  | Fundamentos de HTML y CSS  | [html-css][]|
 
 ## Enlaces
