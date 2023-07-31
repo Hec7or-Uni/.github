@@ -19,7 +19,7 @@
 ### Índice
 
 > [!WARNING]  
-> A pesar de haber obtenido una muy calificación en la mayoría de prácticas presentadas a continuación, los siguientes repositorios pueden contener errores y no presentar la mejor calidad. Utilizar con precaución.
+> A pesar de haber obtenido una calificación alta en la mayoría de prácticas presentadas a continuación, los siguientes repositorios pueden contener errores y no presentar la mejor calidad. Utilizar con precaución.
 
 | Código | Nombre | Repos |
 | ------ | ------ | ----- |
