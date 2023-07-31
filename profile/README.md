@@ -130,11 +130,9 @@
 
 ### Recursos
 
-| Herramienta | Descripción |
-| ----------- | ----------- |
-| [devhints](https://devhints.io/)| |
-| [explainshell](https://explainshell.com/) | |
-| [HotAsm](https://hotasm.vercel.app/) | |
-| [CyberChef](https://gchq.github.io/CyberChef/) | |
-| [dcode.fr](https://www.dcode.fr) | |
-| [boolean-expressions-calculator](https://www.dcode.fr/boolean-expressions-calculator) | |
+- [devhints](https://devhints.io/)
+- [explainshell](https://explainshell.com/)
+- [HotAsm](https://hotasm.vercel.app/)
+- [CyberChef](https://gchq.github.io/CyberChef/)
+- [dcode.fr](https://www.dcode.fr)
+- [boolean-expressions-calculator](https://www.dcode.fr/boolean-expressions-calculator)
