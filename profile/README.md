@@ -41,7 +41,7 @@
 |  30226 | Proyecto Software | [`taskjuggler`][taskjuggler] [`chess-frontend`][chess-frontend] [`chess-backend`][chess-backend] [`chess-mobile`][chess-mobile] |
 |  30227 | Seguridad informática | [`seginf-pr-1`][seginf-pr-1] [`seginf-pr-2`][seginf-pr-2] [`seginf-pr-3`][seginf-pr-3] [`seginf-pr-4`][seginf-pr-4] [`seginf-pr-5`][seginf-pr-5] [`seginf-pr-6`][seginf-pr-6] |
 |  30246 | Ingeniería web | [`lab1-git-race`][lab1-git-race] [`lab2-web-server`][lab2-web-server] [`lab3-web-api`][lab3-web-api] [`lab4-websockets`][lab4-websockets] [`lab5-soa`][lab5-soa] [`lab6-microservices`][lab6-microservices] [`urlshortener`][urlshortener] |
-|  30250 | Bases de datos 2 | [`bbdd2-pr-1`][bbdd2-pr-1] [`bbdd2-pr-2`][bbdd2-pr-2] [`bbdd2-pr-3`][bbdd2-pr-3] [`bbdd2-pr-4`][bbdd2-pr-4] [`bbdd2-pr-5`][bbdd2-pr-5] |
+|  30250 | Bases de datos 2 | [`bbdd2-pr-1`][bbdd2-pr-1] [`bbdd2-pr-2`][bbdd2-pr-2] [`bbdd2-pr-3`][bbdd2-pr-3] [`bbdd2-pr-4`][bbdd2-pr-4] |
 |  30257 | Administración de sistemas 2 | [`adsis2-pr-1`][adsis2-pr-1] [`adsis2-pr-2`][adsis2-pr-2] [`adsis2-pr`][adsis2-pr] [`adsis2-tf`][adsis2-tf] |
 |  30258 | Diseño centrado en el usuario. Diseño para la multimedia | [`dcu-tf`][dcu-tf] |
 
@@ -121,7 +121,6 @@
 [bbdd2-pr-2]:         https://github.com/Hec7or-Uni/bbdd2-pr-2 
 [bbdd2-pr-3]:         https://github.com/Hec7or-Uni/bbdd2-pr-3 
 [bbdd2-pr-4]:         https://github.com/Hec7or-Uni/bbdd2-pr-4 
-[bbdd2-pr-5]:         https://github.com/Hec7or-Uni/bbdd2-pr-5 
 [adsis2-pr-1]:        https://github.com/Hec7or-Uni/adsis2-pr-1 
 [adsis2-pr-2]:        https://github.com/Hec7or-Uni/adsis2-pr-2 
 [adsis2-pr]:          https://github.com/Hec7or-Uni/adsis2-pr
