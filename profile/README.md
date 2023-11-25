@@ -129,9 +129,10 @@
 
 ### Recursos
 
+- [HotAsm](https://hotasm.vercel.app/)
+- [algorithm-visualizer](https://algorithm-visualizer.org/)
 - [devhints](https://devhints.io/)
 - [explainshell](https://explainshell.com/)
-- [HotAsm](https://hotasm.vercel.app/)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [dcode.fr](https://www.dcode.fr)
 - [boolean-expressions-calculator](https://www.dcode.fr/boolean-expressions-calculator)
