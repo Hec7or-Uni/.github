@@ -40,6 +40,7 @@
 |  30224 | Sistemas de información | [`BIdeas`][BIdeas]             |
 |  30226 | Proyecto Software | [`taskjuggler`][taskjuggler] [`chess-frontend`][chess-frontend] [`chess-backend`][chess-backend] [`chess-mobile`][chess-mobile] |
 |  30227 | Seguridad informática | [`seginf-pr-1`][seginf-pr-1] [`seginf-pr-2`][seginf-pr-2] [`seginf-pr-3`][seginf-pr-3] [`seginf-pr-4`][seginf-pr-4] [`seginf-pr-5`][seginf-pr-5] [`seginf-pr-6`][seginf-pr-6] |
+|  30239 | Diseño y administración de redes | [`dar-src`][dar-src] [`dar-pr`][dar-pr] |
 |  30246 | Ingeniería web | [`lab1-git-race`][lab1-git-race] [`lab2-web-server`][lab2-web-server] [`lab3-web-api`][lab3-web-api] [`lab4-websockets`][lab4-websockets] [`lab5-soa`][lab5-soa] [`lab6-microservices`][lab6-microservices] [`urlshortener`][urlshortener] |
 |  30250 | Bases de datos 2 | [`bbdd2-pr-1`][bbdd2-pr-1] [`bbdd2-pr-2`][bbdd2-pr-2] [`bbdd2-pr-3`][bbdd2-pr-3] [`bbdd2-pr-4`][bbdd2-pr-4] |
 |  30257 | Administración de sistemas 2 | [`adsis2-pr-1`][adsis2-pr-1] [`adsis2-pr-2`][adsis2-pr-2] [`adsis2-pr`][adsis2-pr] [`adsis2-tf`][adsis2-tf] |
@@ -109,6 +110,8 @@
 [seginf-pr-3]:        https://github.com/Hec7or-Uni/seginf-pr-3 
 [seginf-pr-4]:        https://github.com/Hec7or-Uni/seginf-pr-4 
 [seginf-pr-5]:        https://github.com/Hec7or-Uni/seginf-pr-5 
+[dar-src]:            https://github.com/Hec7or-Uni/dar-src
+[dar-pr]:             https://github.com/Hec7or-Uni/dar-pr
 [seginf-pr-6]:        https://github.com/Hec7or-Uni/seginf-pr-6 
 [lab1-git-race]:      https://github.com/Hec7or-Uni/lab1-git-race
 [lab2-web-server]:    https://github.com/Hec7or-Uni/lab2-web-server
