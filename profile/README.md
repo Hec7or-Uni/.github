@@ -1,7 +1,6 @@
 ## Hola 👋
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -14,8 +13,6 @@
 > [!NOTE]  
 > He creado una plantilla para tomar apuntes en [Obsidian](https://obsidian.md/). Si te interesa, puedes acceder a ella en el siguiente enlace: [Enlace a la plantilla](https://github.com/hec7orci7o/obsidian-template-generator).
 
-![plantilla](https://github.com/hec7orci7o/obsidian-template-generator/blob/main/assets/informatica-example.png)
-
 ### Índice
 
 > [!WARNING]  
@@ -23,7 +20,7 @@
 
 | Código | Nombre | Repos |
 | ------ | ------ | ----- |
-|  30204 | Programación 1 | [`prog1-tf`][prog1-tf] |
+|  30204 | Programación I | [`prog1-tf`][prog1-tf] |
 |  30209 | Programación II | [`prog2-pr-1`][prog2-pr-1] [`prog2-pr-2`][prog2-pr-2] [`prog2-pr-3`][prog2-pr-3] [`prog2-pr-4`][prog2-pr-4] [`prog2-tf`][prog2-tf] |
 |  30211 | Redes de computadores | [`redes-tf`][redes-tf] |
 |  30212 | Programación de sistemas concurrentes y distribuidos | [`pscd-pr-1`][pscd-pr-1] [`pscd-pr-2`][pscd-pr-2] [`pscd-pr-3`][pscd-pr-3] [`pscd-pr-4`][pscd-pr-4] [`pscd-pr-5`][pscd-pr-5] [`pscd-tf`][pscd-tf] |
@@ -38,10 +35,10 @@
 |  30222 | Ingeniería del Software | [`ingsoft-app`][ingsoft-app]        |
 |  30223 | Inteligencia artificial | [`ia-pr-1`][ia-pr-1] [`ia-pr-2`][ia-pr-2] [`ia-pr-3`][ia-pr-3] [`ia-pr-5`][ia-pr-5] [`ia-tf-1`][ia-tf-1] [`ia-tf-2`][ia-tf-2] |
 |  30224 | Sistemas de información | [`BIdeas`][BIdeas]             |
-|  30226 | Proyecto Software | [`taskjuggler`][taskjuggler] [`chess-frontend`][chess-frontend] [`chess-backend`][chess-backend] [`chess-mobile`][chess-mobile] |
+|  30226 | Proyecto Software ⭐️ | [`taskjuggler`][taskjuggler] [`chess-frontend`][chess-frontend] [`chess-backend`][chess-backend] [`chess-mobile`][chess-mobile] |
 |  30227 | Seguridad informática | [`seginf-pr-1`][seginf-pr-1] [`seginf-pr-2`][seginf-pr-2] [`seginf-pr-3`][seginf-pr-3] [`seginf-pr-4`][seginf-pr-4] [`seginf-pr-5`][seginf-pr-5] [`seginf-pr-6`][seginf-pr-6] |
 |  30239 | Diseño y administración de redes | [`dar-src`][dar-src] [`dar-pr`][dar-pr] |
-|  30246 | Ingeniería web | [`lab1-git-race`][lab1-git-race] [`lab2-web-server`][lab2-web-server] [`lab3-web-api`][lab3-web-api] [`lab4-websockets`][lab4-websockets] [`lab5-soa`][lab5-soa] [`lab6-microservices`][lab6-microservices] [`urlshortener`][urlshortener] |
+|  30246 | Ingeniería web | [`lab1-git-race`][lab1-git-race] [`lab2-web-server`][lab2-web-server] [`lab3-web-api`][lab3-web-api] [`lab4-websockets`][lab4-websockets] [`lab5-soa`][lab5-soa] [`lab6-microservices`][lab6-microservices] [`urlshortener`][urlshortener] [`ingweb-inf`][ingweb-inf] |
 |  30248 | Gestión de proyecto software | [`maya-frontend`][maya-frontend] |
 |  30250 | Bases de datos 2 | [`bbdd2-pr-1`][bbdd2-pr-1] [`bbdd2-pr-2`][bbdd2-pr-2] [`bbdd2-pr-3`][bbdd2-pr-3] [`bbdd2-pr-4`][bbdd2-pr-4] |
 |  30254 | Sistemas legados | [`sl-pr`][sl-pr] [`sl-pr-1`][sl-pr-1] [`sl-pr-2`][sl-pr-2] [`sl-pr-3`][sl-pr-3] [`sl-pr-4`][sl-pr-4] |
@@ -122,6 +119,7 @@
 [lab5-soa]:           https://github.com/Hec7or-Uni/lab5-soa
 [lab6-microservices]: https://github.com/Hec7or-Uni/lab6-microservices
 [urlshortener]:       https://github.com/Hec7or-Uni/urlshortener
+[ingweb-inf]:         https://github.com/Hec7or-Uni/ingweb-inf
 [maya-frontend]:      https://github.com/UNIZAR-30248-2023-01/maya-frontend
 [bbdd2-pr-1]:         https://github.com/Hec7or-Uni/bbdd2-pr-1 
 [bbdd2-pr-2]:         https://github.com/Hec7or-Uni/bbdd2-pr-2 
